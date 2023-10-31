@@ -7,8 +7,10 @@
 		"hotspot",
 		"Notif",
 		"Pricewise",
+		"Putuk",
 		"searchbar",
-		"tanstack"
+		"tanstack",
+		"Truno"
 	],
 	"editor.defaultFormatter": "esbenp.prettier-vscode",
 	"editor.formatOnPaste": false,
